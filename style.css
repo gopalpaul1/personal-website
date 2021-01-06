@@ -1,0 +1,164 @@
+body
+    {
+        font-family: 'Roboto', sans-serif;
+    }
+h1
+    {
+        font-family: 'Bebas Neue';
+        font-size: 60px;
+        line-height: 80%;
+        color: #34386b;
+    }
+div, h2
+    {
+        color: #34386b;
+
+    }
+.size-color
+    {
+        font-family: 'Bebas Neue';
+        color: #34386b;
+        font-size: 40px;
+    }
+p
+    {
+        color: #666262;
+        text-align: justify;
+        margin-bottom: 40px;
+    }
+nav
+    {
+        list-style-type: none;
+        margin-right: 5%;
+        padding-top: 2%;
+        padding-bottom: 4%;
+        overflow: hidden;
+        font-weight: 700;
+    }
+nav li
+    {
+        float: right;
+        display: inline-block;
+        padding: 20px;
+    }
+.tomato
+    {
+        color: #FF8367;
+    }
+.center
+    {
+        margin-top: 5%;
+        text-align: center;
+    }
+.orange-highlight
+    {
+        color: white;
+        font-family: 'Roboto';
+        text-decoration: none;
+        background-image: linear-gradient(45deg, #f06b5d,#f1482a);
+        border-radius: 5px;
+        padding: 18px 30px;
+    }
+
+.half-width img
+    {
+        width:80%;
+    }
+.half-width
+    {
+        width: 40%;
+        float: left;
+        margin-left: 4%;
+        padding-left: 2%;
+    }
+.important
+    {
+        height: 500px;
+        padding-bottom: 10%;
+    }
+.bannar-color
+    {
+        background-color: whitesmoke;
+        padding-left: 3%;
+        padding-top: 4%;
+    }
+.card-image
+    {
+        width: 24%;
+        height: 62%;
+        float: left;
+        margin-left: 3%;
+        margin-top: 3%;
+        background-color: white;
+        box-shadow: 5px 5px 20px #ffe4e4;
+        border-radius: 20px;
+        padding: 2%; 
+    }
+.card img
+    {
+        width: 100%;
+    }
+img
+    {
+        width: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+.bannar-top
+    {
+        position: relative;
+        padding-top: 200px;
+    }
+.top-left
+    {
+        position: absolute;
+        width: 277px;
+        height: 64px;
+        left: 370px;
+        top: 225px;
+    }
+.color-text
+    {
+        color: white;
+        font-size: 40px;
+    }
+.top-right
+    {
+        position: absolute;
+        width: 134px;
+        height: 60px;
+        left: 820px;
+        top: 274px;
+    }
+.icon-image
+    {
+        width: 40px;
+        float: left;
+    }
+.content
+    {
+        text-align: center;
+        padding-top: 150px;
+    }
+.color-icon
+    {
+        height: 200px;
+        background-color: #04fc88;
+        box-shadow: 4px 4px 20px #ff4bb4;
+        color: white;
+        text-align: center;
+        padding-top: 40px;
+    }
+.icon-style
+    {
+        width: 60px;
+        float: left;
+        margin-left: 290px;
+        
+    }
+footer p
+    {
+        text-align: center;
+        padding-top: 14px;
+    }
